@@ -1,0 +1,28 @@
+#main{
+  display: flex;
+}
+#main{
+ margin: auto;
+}
+button{
+  background-color: #4570ed;
+  color: white;
+  width: 180px;
+}
+body{
+  background-color: purple;
+}
+form{
+  background-color: white;
+  width: 200px;
+  height: 400px;
+  padding-left: 30px;
+}
+h1{
+  text-align: center;
+}
+#2{
+  background-image: url("img/phone.jpeg");
+}
+
+
